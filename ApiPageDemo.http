@@ -1,0 +1,6 @@
+@ApiPageDemo_HostAddress = http://localhost:5010
+
+GET {{ApiPageDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
